@@ -1,5 +1,4 @@
 ## MADE BY IVYDEAVY (DEEPRAJ)
-#### FIRST PROJECT ON LISP
 #### CD Management
 
 
